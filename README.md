@@ -1,5 +1,9 @@
 # Receipt Processor
 
+Name: Keanu Aloua
+
+Backend Engineer Apprentice take home assignment
+
 ## How to run
 1. Clone the repo
 ```
